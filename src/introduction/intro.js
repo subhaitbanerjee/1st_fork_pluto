@@ -4,7 +4,7 @@ let printName = function() {
     console.log('Bathc name is ', batchName)
 }
 
-module.exports.name = batchName
+module.exports.name = batchName             //to make the content
 module.exports.printName = printName
 
 
